@@ -2,19 +2,24 @@ main {
 display: flex;
 flex-direction: row;
 flex: auto;
+background-color:blanchedalmond;
 }
 
 body {
     flex-direction: column;
+    
     
 }
 
 article{
     flex: 2;
     overflow-y: auto;
+    
 }
 aside{
     flex: 1;
     overflow-y: auto;
+    background-color: bisque;
     
 }
+
