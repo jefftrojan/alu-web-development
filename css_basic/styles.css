@@ -3,6 +3,7 @@ display: flex;
 flex-direction: row;
 flex: auto;
 background-color:blanchedalmond;
+border-radius: 30px;
 }
 
 body {
@@ -20,6 +21,12 @@ aside{
     flex: 1;
     overflow-y: auto;
     background-color: bisque;
-    
+    border-radius: 26px;
 }
 
+header {
+   margin: auto; 
+   background-color:beige;
+   border-radius: 20px;
+
+}
